@@ -1,0 +1,43 @@
+【经文资讯】大正新修大藏经 第五十五册 No. 2174B《禅林寺宗睿僧正目录》
+【版本记录】CBETA 电子佛典 V1.22 (Big5) 普及版，完成日期：2001/04/12
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 55, No. 2174B 禅林寺宗睿僧正目录
+# CBETA Chinese Electronic Tripitaka V1.22 (Big5) Normalized Version, Release Date: 2001/04/12
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T55n2174Bp1111c07║
+T55n2174Bp1111c08║　　No. 2174B
+T55n2174Bp1111c09║禅林寺宗睿僧正目录
+T55n2174Bp1111c10║
+T55n2174Bp1111c11║　常瞿毒女陀罗尼经一卷
+T55n2174Bp1111c12║　大随求陀罗尼錍本一卷
+T55n2174Bp1111c13║　大佛顶碑本一卷(已上三卷阿阇梨付之也)
+T55n2174Bp1111c14║　播那曩结使波念诵仪轨一卷
+T55n2174Bp1111c15║　供养护世天法一卷(法全阿阇梨集)
+T55n2174Bp1111c16║　那罗延天共阿修罗王斗战法(宝思惟三藏译)
+T55n2174Bp1111c17║　萨波金刚法(已上二法一卷)
+T55n2174Bp1111c18║　总释陀罗尼义赞一卷
+T55n2174Bp1111c19║　金刚顶经瑜伽观自在王如来修行法一卷
+T55n2174Bp1111c20║　佛顶尊胜心陀罗尼(并别行法列)
+T55n2174Bp1111c21║　金刚顶瑜伽略述三十七尊心要一卷(仁)
+T55n2174Bp1111c22║　摄真实经成就三身密言要略一卷
+T55n2174Bp1111c23║　文殊师利焰曼德迦金刚陀罗尼经一卷
+T55n2174Bp1111c24║　瑜伽供养次第法一卷
+T55n2174Bp1111c25║　胎藏五轮观门一卷
+T55n2174Bp1111c26║　菩提心记决一卷
+T55n2174Bp1111c27║　理趣般若决一卷
+T55n2174Bp1111c28║　都表如意轮瑜伽一卷
+T55n2174Bp1111c29║　大轮金刚修行供养法一卷
+T55n2174Bp1112a01║　毗沙门天王别行法一卷
+T55n2174Bp1112a02║　那吒句钵罗陀罗尼经一卷
+T55n2174Bp1112a03║　毗沙门天王仪轨一卷
+T55n2174Bp1112a04║　毗沙门天王经一卷
+T55n2174Bp1112a05║　一切如来普贤延命经一卷
+T55n2174Bp1112a06║　四天姊妹神女真言法一卷(内有小佛顶真言一本)
+T55n2174Bp1112a07║　母哆罗观自在菩萨随心法一卷
+T55n2174Bp1112a08║　金刚童子念诵法一卷(无量寿化身)

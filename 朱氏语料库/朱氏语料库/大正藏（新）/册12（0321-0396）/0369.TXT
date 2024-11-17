@@ -1,0 +1,27 @@
+【经文资讯】大正新修大藏经 第十二册 No. 369《阿弥陀佛说咒》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：1999/12/10
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，北美某大德提供，CBETA 自行扫瞄辨识
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 12, No. 369 阿弥陀佛说咒
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 1999/12/10
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA, CBETA OCR Group
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T12n0369_p0352a20┃
+T12n0369_p0352a21┃
+T12n0369_p0352a22┃　　No. 369
+T12n0369_p0352a23┃阿弥陀佛说咒
+T12n0369_p0352a24┃
+T12n0369_p0352a25┃那(上)谟菩(上)陀夜(药可反下同)那谟[马*犬]罗(上)摩夜那
+T12n0369_p0352a26┃谟僧伽夜那摩(上)阿(上)弭多婆(上)夜跢(丁可反下同)
+T12n0369_p0352a27┃他伽(上)多夜阿(上)罗(上)诃(上)羝三藐三菩(上)陀
+T12n0369_p0352a28┃夜跢侄(地也反下同)他阿(上)弭唎(上)羝阿(上)弭唎都
+T12n0369_p0352a29┃婆(上)鼙(菩继反下同)阿(上)弭唎跢三婆(上)鼙阿(上)弭
+T12n0369_p0352b01┃唎跢鼻(菩弭反)迦(上)[口*阑]羝伽弭[仁-二+尔]伽(上)伽(上)那(上)
+T12n0369_p0352b02┃稽(居移反)唎底(都[仁-二+尔]反)迦(上)[口*(黍-禾+利)]婆(上)罗(上)皤波跢叉
+T12n0369_p0352b03┃(楚我反)焰迦[口*(黍-禾+利)](一切恶业)娑(上)婆诃(若能如法受持决定得生弥陀佛国)
+
+

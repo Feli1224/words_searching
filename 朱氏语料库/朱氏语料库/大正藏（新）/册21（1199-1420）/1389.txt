@@ -1,0 +1,27 @@
+【经文资讯】大正新修大藏经 第二十一册 No. 1389《佛说无量寿大智陀罗尼》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：2000/03/01
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 21, No. 1389 佛说无量寿大智陀罗尼
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 2000/03/01
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T21n1389_p0907b01║
+T21n1389_p0907b02║　　No. 1389
+T21n1389_p0907b03║佛说无量寿大智陀罗尼
+T21n1389_p0907b04║
+T21n1389_p0907b05║　　　　西天译经三藏朝散大夫试光禄卿
+T21n1389_p0907b06║　　　　明教大师臣法贤奉　诏译
+T21n1389_p0907b07║那谟(引)婆[言*我][口*缚]帝(引一)阿波哩弥多(引)喻(二)倪也
+T21n1389_p0907b08║(二合引)那酥尾[仁-二+尔]室唧(二合)多(三)帝(引)儒(仁祖切)啰(引)惹
+T21n1389_p0907b09║(仁左切)野(四)怛他(引)[言*我]多(引)野(五)遏啰贺(二合)帝(引)三
+T21n1389_p0907b10║藐讫三(二合)没驮(引)野(六)怛[宁*也](切身)他(引七)唵(引)萨
+T21n1389_p0907b11║哩[口*缚](二合)僧塞哥(二合引)啰(八)波哩[禾*(尤-尢+木)]驮达哩摩
+T21n1389_p0907b12║(二合)帝(引九)[言*我][言*我]那三母讷[言*我](二合)帝(引十)莎婆(引)
+T21n1389_p0907b13║[口*缚][禾*(尤-尢+木)]提(引十一)摩贺(引)那野(十二)波哩[口*缚](引)哩(引)娑
+T21n1389_p0907b14║[口*缚](二合引)贺(引十三)
+T21n1389_p0907b15║佛说无量寿大智陀罗尼

@@ -1,0 +1,43 @@
+【经文资讯】大正新修大藏经 第八十五册 No. 2852《入布萨堂说偈文等》
+【版本记录】CBETA 电子佛典 V1.9 (Big5) 普及版，完成日期：2001/05/25
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，陈妙如大德输入，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 85, No. 2852 入布萨堂说偈文等
+# CBETA Chinese Electronic Tripitaka V1.9 (Big5) Normalized Version, Release Date: 2001/05/25
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as inputted by Miss Chen Miao-Ru, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T85n2852_p1301a01║
+T85n2852_p1301a02║
+T85n2852_p1301a03║　　No. 2852
+T85n2852_p1301a04║入布萨堂说偈文等
+T85n2852_p1301a05║
+T85n2852_p1301a06║　持戒清净如满月　　身口皎洁无瑕秽
+T85n2852_p1301a07║　清净和合无违诤　　尔乃可得同布萨
+T85n2852_p1301a08║　　受水偈文
+T85n2852_p1301a09║　八功德水净诸尘　　灌掌去垢心无染
+T85n2852_p1301a10║　奉持禁戒无缺犯　　一切众生悉如是
+T85n2852_p1301a11║　　浴筹说偈文
+T85n2852_p1301a12║　罗汉圣僧集　　凡夫众和合
+T85n2852_p1301a13║　香汤浴净　　布萨度众生
+T85n2852_p1301a14║　　受香汤说偈文
+T85n2852_p1301a15║　香水勋沐澡诸垢　　法身具足五分充
+T85n2852_p1301a16║　般若圆照解脱满　　群生同会法界融
+T85n2852_p1301a17║　　唱行香说偈文
+T85n2852_p1301a18║　戒香定香解脱香　　光明云台遍世界
+T85n2852_p1301a19║　供养十方无量佛　　见闻普勋证寂灭
+T85n2852_p1301a20║　　受筹说偈文
+T85n2852_p1301a21║　金刚无碍解脱筹　　难□□□□□果
+T85n2852_p1301a22║　我今欢喜顶戴受　　一切众生悉如是
+T85n2852_p1301a23║　　还筹偈文
+T85n2852_p1301a24║　具足清净受此筹　　具足清净还此筹
+T85n2852_p1301a25║　坚持禁戒无缺犯　　一切众生悉如是
+T85n2852_p1301a26║　　清净妙偈文
+T85n2852_p1301a27║　清净如满月　　清净应布萨
+T85n2852_p1301a28║　身口业清净　　尔乃同布萨
+T85n2852_p1301a29║　　布萨竟说偈文
+T85n2852_p1301b01║　诸佛出世第一快　　闻法奉行欢喜快
+T85n2852_p1301b02║　大众和合寂灭快　　众生离苦安乐快

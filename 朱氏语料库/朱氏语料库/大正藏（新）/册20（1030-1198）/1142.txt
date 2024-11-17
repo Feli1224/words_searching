@@ -1,0 +1,24 @@
+【经文资讯】大正新修大藏经 第二十册 No. 1142《佛说慈氏菩萨陀罗尼》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：2000/03/01
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 20, No. 1142 佛说慈氏菩萨陀罗尼
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 2000/03/01
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T20n1142_p0600b01║
+T20n1142_p0600b02║　　No. 1142
+T20n1142_p0600b03║佛说慈氏菩萨陀罗尼
+T20n1142_p0600b04║
+T20n1142_p0600b05║　　　　西天译经三藏朝散大夫试光禄卿
+T20n1142_p0600b06║　　　　明教大师臣法贤奉　诏译
+T20n1142_p0600b07║怛[宁*也](切身)他(引一)悉哩悉哩(二)娑啰娑啰(三)酥噜
+T20n1142_p0600b08║酥噜(四)达啰达啰(五)左啰左啰(六)摩贺(引)左啰(七)
+T20n1142_p0600b09║婆啰婆啰(八)摩贺(引)婆啰(九)绀波绀波(十)摩贺(引)
+T20n1142_p0600b10║绀波(十一)吽(引)末娑啰达哩摩(二合)阿屹啰(二合)
+T20n1142_p0600b11║娑(引)[言*我]啰娑[口*缚](二合引)贺(引十二)
+T20n1142_p0600b12║佛说慈氏菩萨陀罗尼

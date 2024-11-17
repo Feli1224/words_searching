@@ -1,0 +1,44 @@
+【经文资讯】大正新修大藏经 第十七册 No. 779《佛说八大人觉经》
+【版本记录】CBETA 电子佛典 V1.16 (Big5) 普及版，完成日期：2001/07/27
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，维习安大德提供之高丽藏 CD 经文，维习安大德提供，阎学新大德输入，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://www.cbeta.org/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 17, No. 779 佛说八大人觉经
+# CBETA Chinese Electronic Tripitaka V1.16 (Big5) Normalized Version, Release Date: 2001/07/27
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by Mr. Christian Wittern, Text as inputted by Mr. Yan Hsue-Hsin, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://www.cbeta.org/cbeta/result/cbintr_e.htm
+=========================================================================
+T17n0779_p0715b01║
+T17n0779_p0715b02║　　No. 779
+T17n0779_p0715b03║佛说八大人觉经
+T17n0779_p0715b04║
+T17n0779_p0715b05║　　　　后汉安息国三藏安世高译
+T17n0779_p0715b06║为佛弟子常于昼夜至心诵念八大人觉
+T17n0779_p0715b07║第一觉悟世间无常。国土危脆四大苦空。五
+T17n0779_p0715b08║阴无我生灭变异虚伪无主。心是恶源形为
+T17n0779_p0715b09║罪薮。如是观察渐离生死
+T17n0779_p0715b10║第二觉知多欲为苦。生死疲劳从贪欲起。少
+T17n0779_p0715b11║欲无为身心自在
+T17n0779_p0715b12║第三觉知心无厌足。唯得多求增长罪恶。菩
+T17n0779_p0715b13║萨不尔常念知足。安贫守道。唯慧是业
+T17n0779_p0715b14║第四觉知懈怠坠落。常行精进破烦恼恶。摧
+T17n0779_p0715b15║伏四魔出阴界狱
+T17n0779_p0715b16║第五觉悟愚痴生死。菩萨常念广学多闻。增
+T17n0779_p0715b17║长智慧成就辩才。教化一切悉以大乐
+T17n0779_p0715b18║第六觉知贫苦多怨横结恶缘。菩萨布施等
+T17n0779_p0715b19║念冤亲。不念旧恶不憎恶人
+T17n0779_p0715b20║第七觉悟五欲过患。虽为俗人不染世乐念。
+T17n0779_p0715b21║三衣瓶钵法器。志愿出家守道清白。梵行高
+T17n0779_p0715b22║远慈悲一切
+T17n0779_p0715b23║第八觉知生死炽然苦恼无量。发大乘心普
+T17n0779_p0715b24║济一切。愿代众生受无量苦。令诸众生毕竟
+T17n0779_p0715b25║大乐
+T17n0779_p0715b26║如此八事。乃是诸佛菩萨大人之所觉悟。精
+T17n0779_p0715b27║进行道慈悲修慧。乘法身船至涅槃岸。复还
+T17n0779_p0715b28║生死度脱众生。以前八事。开导一切。令诸众
+T17n0779_p0715b29║生觉生死苦舍离五欲修心圣道。若佛弟子
+T17n0779_p0715c01║诵此八事。于念念中灭无量罪。进趣菩提。速
+T17n0779_p0715c02║登正觉。永断生死。常住快乐
+T17n0779_p0715c03║佛说八大人觉经

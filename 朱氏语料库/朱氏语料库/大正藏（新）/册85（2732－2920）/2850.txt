@@ -1,0 +1,37 @@
+【经文资讯】大正新修大藏经 第八十五册 No. 2850《地藏菩萨十斋日》
+【版本记录】CBETA 电子佛典 V1.9 (Big5) 普及版，完成日期：2001/03/31
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 85, No. 2850 地藏菩萨十斋日
+# CBETA Chinese Electronic Tripitaka V1.9 (Big5) Normalized Version, Release Date: 2001/03/31
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T85n2850_p1300a06║
+T85n2850_p1300a07║
+T85n2850_p1300a08║　　No. 2850
+T85n2850_p1300a09║地藏菩萨十斋日
+T85n2850_p1300a10║
+T85n2850_p1300a11║一日童子下念定光如来不涂刀枪地狱持斋
+T85n2850_p1300a12║除罪四十劫
+T85n2850_p1300a13║八日太子下念药师琉璃光佛不涂粪屎地狱
+T85n2850_p1300a14║持斋除罪三十劫
+T85n2850_p1300a15║十四日察命下念贤劫千佛不涂镬汤地狱持
+T85n2850_p1300a16║斋除罪一千劫
+T85n2850_p1300a17║十五日五道大将军下念阿弥陀佛不堕寒冰
+T85n2850_p1300a18║地狱持斋除罪二百劫
+T85n2850_p1300a19║十八日阎罗王下念观世音菩萨不堕剑树地
+T85n2850_p1300a20║狱持斋除罪九十劫
+T85n2850_p1300a21║二十三日大将军下念卢舍那佛不堕饿鬼地
+T85n2850_p1300a22║狱持斋除罪一千劫
+T85n2850_p1300a23║二十四日太山府君下念地狱菩萨不堕斩斫
+T85n2850_p1300a24║地狱持斋除罪一千劫
+T85n2850_p1300a25║二十八日帝释下念阿弥陀佛不堕铁锯地狱
+T85n2850_p1300a26║持斋除罪九十劫
+T85n2850_p1300a27║二十九日四天王下念药师上菩萨不堕硙摩
+T85n2850_p1300a28║地狱持斋除罪七千劫
+T85n2850_p1300a29║三十日梵天王下念释迦牟尼佛不堕灰何地
+T85n2850_p1300b01║狱持斋除罪八千劫

@@ -1,0 +1,93 @@
+【经文资讯】大正新修大藏经 第二十册 No. 1168B《八曼荼罗经》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：2000/03/01
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 20, No. 1168B 八曼荼罗经
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 2000/03/01
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T20n1168Bp0676c12║
+T20n1168Bp0676c13║　　No. 1168B [No. 1167]
+T20n1168Bp0676c14║八曼荼罗经
+T20n1168Bp0676c15║
+T20n1168Bp0676c16║(如是我一婆
+T20n1168Bp0676c17║【◇】
+T20n1168Bp0676c18║伽梵在布得[打-丁+罗]迦山住观自在
+T20n1168Bp0676c19║【◇】
+T20n1168Bp0676c20║宫殿与无量
+T20n1168Bp0676c21║【◇】
+T20n1168Bp0676c22║百千句致菩萨前
+T20n1168Bp0676c23║【◇】
+T20n1168Bp0676c24║后围绕时有菩萨名宝藏月
+T20n1168Bp0676c25║【◇】
+T20n1168Bp0676c26║光
+T20n1168Bp0676c27║【◇】
+T20n1168Bp0676c28║中即
+T20n1168Bp0676c29║【◇】
+T20n1168Bp0676c30║起一心恭敬合
+T20n1168Bp0676c31║【◇】
+T20n1168Bp0676c32║掌供养尊重
+T20n1168Bp0676c33║【◇】
+T20n1168Bp0677a01║顶礼世尊
+T20n1168Bp0677a02║【◇】
+T20n1168Bp0677a03║作如是言婆伽梵
+T20n1168Bp0677a04║【◇】
+T20n1168Bp0677a05║应供正等所有
+T20n1168Bp0677a06║【◇】
+T20n1168Bp0677a07║谕示教受令无疑惑
+T20n1168Bp0677a08║【◇】
+T20n1168Bp0677a09║如是说以
+T20n1168Bp0677a10║【◇】
+T20n1168Bp0677a11║佛宝藏月光菩提
+T20n1168Bp0677a12║【◇】
+T20n1168Bp0677a13║言当一心
+T20n1168Bp0677a14║【◇】
+T20n1168Bp0677a15║谛听如是说已宝藏
+T20n1168Bp0677a16║【◇】
+T20n1168Bp0677a17║菩萨作是
+T20n1168Bp0677a18║【◇】
+T20n1168Bp0677a19║真言若有善男子
+T20n1168Bp0677a20║【◇】
+T20n1168Bp0677a21║善女人欲修曼荼罗
+T20n1168Bp0677a22║【◇】
+T20n1168Bp0677a23║者彼等云何方
+T20n1168Bp0677a24║【◇】
+T20n1168Bp0677a25║便而世尊告言善哉善哉
+T20n1168Bp0677a26║【◇】
+T20n1168Bp0677a27║贤勇族姓子生利益
+T20n1168Bp0677a28║【◇】
+T20n1168Bp0677a29║多诸众生令得安乐能生众
+T20n1168Bp0677a30║【◇】
+T20n1168Bp0677a31║生三世智慧是故应
+T20n1168Bp0677a32║【◇】
+T20n1168Bp0677a33║知善男子此八菩萨心
+T20n1168Bp0677a34║【◇】
+T20n1168Bp0677a35║种子字由能□□之者
+T20n1168Bp0677a36║【◇】
+T20n1168Bp0677a37║灭尽五无间罪一切
+T20n1168Bp0677a38║【◇】
+T20n1168Bp0677b01║皆得成就此
+T20n1168Bp0677b02║【◇】
+T20n1168Bp0677b03║名如来胎藏以心供养
+T20n1168Bp0677b04║【◇】
+T20n1168Bp0677b05║观自在菩萨
+T20n1168Bp0677b06║【◇】
+T20n1168Bp0677b07║心
+T20n1168Bp0677b08║【◇】
+T20n1168Bp0677b09║是名弥勒菩萨心
+T20n1168Bp0677b10║【◇】
+T20n1168Bp0677b11║是名虚空藏菩萨心
+T20n1168Bp0677b12║【◇】
+T20n1168Bp0677b13║是名地藏菩萨心)
+T20n1168Bp0677b14║【◇】
+T20n1168Bp0677b15║【◇】
+T20n1168Bp0677b16║【◇】
+T20n1168Bp0677b17║【◇】
+T20n1168Bp0677b18║【◇】
+T20n1168Bp0677b19║【◇】
+T20n1168Bp0677b20║【◇】
+T20n1168Bp0677b21║【◇】

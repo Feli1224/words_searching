@@ -1,0 +1,27 @@
+【经文资讯】大正新修大藏经 第二十一册 No. 1317《甘露陀罗尼咒》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：2000/03/01
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 21, No. 1317 甘露陀罗尼咒
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 2000/03/01
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T21n1317_p0468c01║
+T21n1317_p0468c02║　　No. 1317
+T21n1317_p0468c03║甘露陀罗尼咒
+T21n1317_p0468c04║
+T21n1317_p0468c05║　　　　于阗三藏实叉难陀佛授记寺译
+T21n1317_p0468c06║那谟皤哦[口*缚]帝(一)阿弥哆婆耶(二)怛他羯哆耶
+T21n1317_p0468c07║(三)阿罗诃帝(四)三[廿/狼]三勃陀耶(五)怛[仁-二+尔]也他(六)
+T21n1317_p0468c08║唵(七)阿弥哩帝(八)阿弥哩睹皤吠(九)阿弥哩哆
+T21n1317_p0468c09║参皤吠(十)阿弥哩哆羯陛(十一)阿弥哩哆徙悌
+T21n1317_p0468c10║(十二)阿弥哩哆帝艺(十三)阿弥哩哆尾羯[口*览]帝(十
+T21n1317_p0468c11║四)阿弥哩哆尾迦哆哦弥泥(十五)阿弥哩哆伽
+T21n1317_p0468c12║哦曩(十六)枳栗底迦隶(十七)阿弥哩哆讷努吠(十
+T21n1317_p0468c13║八)萨[口*缚]隶(十九)萨婆怛他(二十)萨陀弥(二十一)萨婆
+T21n1317_p0468c14║枳隶舍羯叉炎迦隶萨[口*缚]诃(二十二)
+T21n1317_p0468c15║佛说甘露陀罗尼经

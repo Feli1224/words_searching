@@ -1,0 +1,42 @@
+【经文资讯】大正新修大藏经 第二十四册 No. 1467b《佛说犯戒罪报轻重经》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：1999/12/10
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，伽耶山基金会提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 24, No. 1467b 佛说犯戒罪报轻重经
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 1999/12/10
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Gaya Foundation, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T24n1467bp0911a05║
+T24n1467bp0911a06║佛说犯戒罪报轻重经
+T24n1467bp0911a07║如是我闻一时佛住王舍城迦兰陀竹园尔
+T24n1467bp0911a08║时尊者目连晡时从禅觉往至世尊所头面
+T24n1467bp0911a09║礼足却坐一面时尊者大目连白佛言世尊
+T24n1467bp0911a10║意有所疑今欲诘问唯愿听许佛告目连听
+T24n1467bp0911a11║汝所问当为汝说目连即白佛言世尊若比
+T24n1467bp0911a12║丘比丘尼无惭愧心轻慢佛说犯众学戒如
+T24n1467bp0911a13║是犯波罗提提舍尼波罗提偷兰遮僧伽婆
+T24n1467bp0911a14║尸沙波罗夷得几不饶益罪唯愿说之佛告
+T24n1467bp0911a15║目连谛听当为汝说若比丘比丘尼若无惭
+T24n1467bp0911a16║愧轻慢佛语犯众学戒如四天王寿五百岁
+T24n1467bp0911a17║堕泥梨中于人间数九百千岁佛告目连若
+T24n1467bp0911a18║无惭愧轻慢佛语犯波罗提提舍尼如三十
+T24n1467bp0911a19║三天寿千岁堕泥梨中于人间数三亿六千
+T24n1467bp0911a20║岁佛语目连若无惭愧轻慢佛语犯波夜提
+T24n1467bp0911a21║如夜摩天寿二千岁堕泥梨中于人间数二
+T24n1467bp0911a22║十亿四十千岁佛告目连若无惭愧轻慢佛
+T24n1467bp0911a23║语犯偷兰遮如兜率天寿四千岁堕泥梨中
+T24n1467bp0911a24║于人间数五十亿六十千岁佛告目连若无
+T24n1467bp0911a25║惭愧轻慢佛语犯僧伽婆尸沙如不憍乐天
+T24n1467bp0911a26║寿八千岁堕泥梨中于人间数二百四十亿
+T24n1467bp0911a27║千岁佛告目连若无惭愧轻慢佛语犯波罗
+T24n1467bp0911a28║夷如他化自在天寿十六千岁堕泥梨中于
+T24n1467bp0911a29║人间数九百二十一亿九十千岁时尊者目
+T24n1467bp0911b01║连闻佛所说欢喜奉行尔时目连即说颂曰
+T24n1467bp0911b02║　因缘轻慢故　　命缘堕恶道
+T24n1467bp0911b03║　因缘修善故　　于此生天上
+T24n1467bp0911b04║　因斯修善业　　离恶得解脱
+T24n1467bp0911b05║　不善观因缘　　身坏入恶道

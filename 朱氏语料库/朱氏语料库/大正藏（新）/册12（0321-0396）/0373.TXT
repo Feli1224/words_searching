@@ -1,0 +1,49 @@
+【经文资讯】大正新修大藏经 第十二册 No. 373《後出阿弥陀佛偈》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：1999/12/10
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，维习安大德提供之高丽藏 CD 经文，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 12, No. 373 後出阿弥陀佛偈
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 1999/12/10
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T12n0373_p0364b06┃
+T12n0373_p0364b07┃
+T12n0373_p0364b08┃　　No. 373
+T12n0373_p0364b09┃後出阿弥陀佛偈
+T12n0373_p0364b10┃
+T12n0373_p0364b11┃　　　　古旧录云阙译人名今纪後汉录
+T12n0373_p0364b12┃　惟念法比丘　　乃从世饶王
+T12n0373_p0364b13┃　发愿喻诸佛　　誓二十四章
+T12n0373_p0364b14┃　世世见诸佛　　垓数无有量
+T12n0373_p0364b15┃　不废宿命行　　功德遂具成
+T12n0373_p0364b16┃　世界名清净　　得佛号无量
+T12n0373_p0364b17┃　国界平夷易　　丰乐多上人
+T12n0373_p0364b18┃　宝树若干种　　罗列丛相生
+T12n0373_p0364b19┃　本茎枝叶花　　种种各异香
+T12n0373_p0364b20┃　顺风日三动　　翕习如花生
+T12n0373_p0364b21┃　堕地如手布　　杂厕上普平
+T12n0373_p0364b22┃　一切无诸山　　海水及诸源
+T12n0373_p0364b23┃　但有河水流　　音响如说经
+T12n0373_p0364b24┃　天人入水戏　　在意所欲望
+T12n0373_p0364b25┃　令水齐胳肩　　意愿随念得
+T12n0373_p0364b26┃　佛寿十方沙　　光明普无边
+T12n0373_p0364b27┃　菩萨及弟子　　不可算称量
+T12n0373_p0364b28┃　若欲见彼佛　　莫疑亦莫忘
+T12n0373_p0364b29┃　有疑在胎中　　不合五百年
+T12n0373_p0364c01┃　不疑生基坐　　叉手无量前
+T12n0373_p0364c02┃　愿欲遍十方　　须臾则旋还
+T12n0373_p0364c03┃　惟念彼菩萨　　垓劫作功勤
+T12n0373_p0364c04┃　本行如此致　　得号会世尊
+T12n0373_p0364c05┃　佛兴难得值　　须臾会难闻
+T12n0373_p0364c06┃　讲说士难遇　　受学人难得
+T12n0373_p0364c07┃　若後遭末世　　法欲衰微时
+T12n0373_p0364c08┃　当共建拥护　　行佛无欲法
+T12n0373_p0364c09┃　佛能说此要　　各各勤思行
+T12n0373_p0364c10┃　受此无量福　　世世稽首行
+T12n0373_p0364c11┃後出阿弥陀佛偈
+
+

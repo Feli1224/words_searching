@@ -1,0 +1,48 @@
+【经文资讯】大正新修大藏经 第二十册 No. 1108A《圣救度佛母二十一种礼赞经》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：2000/03/01
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 20, No. 1108A 圣救度佛母二十一种礼赞经
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 2000/03/01
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T20n1108Ap0478b08║
+T20n1108Ap0478b09║
+T20n1108Ap0478b10║
+T20n1108Ap0478b11║　　No. 1108A
+T20n1108Ap0478b12║御制救度佛母赞
+T20n1108Ap0478b13║
+T20n1108Ap0478b14║　世尊威力大神通　　无惊怖畏安乐住
+T20n1108Ap0478b15║　能灭一切诸垢障　　于众转广大法轮
+T20n1108Ap0478b16║　尽诸苦报出死生　　具足成就等正觉
+T20n1108Ap0478b17║　譬如须弥山不动　　金刚坚固镇长存
+T20n1108Ap0478b18║　利乐三界诸有情　　不动悉成无畏力
+T20n1108Ap0478b19║　闻是妙法不思议　　证入无上菩提心
+T20n1108Ap0478b20║　有能显扬大名称　　不假慈筏到彼岸
+T20n1108Ap0478b21║　亦复得成大自在　　德超十力大丈夫
+T20n1108Ap0478b22║　恒怀摄受大慈悲　　平等具足无边智
+T20n1108Ap0478b23║　清净廓然无怖畏　　不断不破亦不空
+T20n1108Ap0478b24║　速疾勇母具娑诃　　授诸胜义除怖畏
+T20n1108Ap0478b25║　速勇母者莲华面　　端严相现妙莲华
+T20n1108Ap0478b26║　月朗母者如千星　　殊胜威光遍圆满
+T20n1108Ap0478b27║　庄严紫磨金色母　　忍辱禅定精勤行
+T20n1108Ap0478b28║　顶髻母者广无边　　怛啰吽字母甚大
+T20n1108Ap0478b29║　自在释梵水天母　　药叉罗刹总归依
+T20n1108Ap0478c01║　特啰胝发母尊严　　顶髻光明朗千日
+T20n1108Ap0478c02║　勇猛都哩大紧母　　能摧一切诸怨魔
+T20n1108Ap0478c03║　三宝严印母威严　　身有光明种种聚
+T20n1108Ap0478c04║　镇世威德欢悦母　　摄伏世间诸魔精
+T20n1108Ap0478c05║　守护众地母吽声　　妙光顶冠月相母
+T20n1108Ap0478c06║　安住如尽劫火母　　普遍摧坏恶冤轮
+T20n1108Ap0478c07║　手按大地母颦眉　　能以足践镇降伏
+T20n1108Ap0478c08║　最乐安隐柔善母　　普遍极喜母脱离
+T20n1108Ap0478c09║　都哩巴帝母蹑吽　　萨罗天海母作发
+T20n1108Ap0478c10║　威德诸天集会母　　灭除恶梦及斗争
+T20n1108Ap0478c11║　日月光胜广圆母　　善除诸毒及瘟疫
+T20n1108Ap0478c12║　善威力三真实母　　消除烦恼及祸灾
+T20n1108Ap0478c13║　至心归仰救度尊　　能消罪业越恶趣
+T20n1108Ap0478c14║　速得圆融成正果　　诸佛灌顶证真如

@@ -1,0 +1,52 @@
+【经文资讯】大正新修大藏经 第二册 No. 150B《九横经》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：1999/12/10
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供／张文明大德二校，维习安大德提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 2, No. 150B 九横经
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 1999/12/10
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo / proofread twice by Mr. Chang Wen-Ming, Text as provided by Mr. Christian Wittern, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T02n0150Bp0883a09║
+T02n0150Bp0883a10║
+T02n0150Bp0883a11║　　No. 150B
+T02n0150Bp0883a12║佛说九横经
+T02n0150Bp0883a13║
+T02n0150Bp0883a14║　　　　后汉安息国三藏安世高译
+T02n0150Bp0883a15║佛在舍卫国。祇树给孤独园。佛便告比丘。有
+T02n0150Bp0883a16║九辈九因缘。命未尽便横死。一者为不应饭
+T02n0150Bp0883a17║为饭。二者为不量饭。三者为不习饭饭。四者
+T02n0150Bp0883a18║为不出生。五者为止熟。六者为不持戒。七者
+T02n0150Bp0883a19║为近恶知识。八者为入里不时不如法行。九
+T02n0150Bp0883a20║者为可避不避。如是为九因缘。人命为横尽
+T02n0150Bp0883a21║一不应饭者。名为不可意饭。亦为以饱腹不
+T02n0150Bp0883a22║停调
+T02n0150Bp0883a23║二不量饭者名为不知节度多饭过足
+T02n0150Bp0883a24║三不习饭者。名为不知时冬夏。为至他国
+T02n0150Bp0883a25║郡。不知俗宜。不能消饭。食未习故
+T02n0150Bp0883a26║四不出生者。名为饭物未消。复上饭不服药
+T02n0150Bp0883a27║吐下不时消
+T02n0150Bp0883a28║五为止熟者。名为大便小便来时。不即时行
+T02n0150Bp0883a29║噫吐啑下风来时制
+T02n0150Bp0883b01║六不持戒者。名为犯五戒。杀盗犯他人妇两
+T02n0150Bp0883b02║舌饮酒。亦有余戒。以犯便入县官。或弦死。或
+T02n0150Bp0883b03║捶杖利刃所斫刺。或辜饥渴而终。或以得脱
+T02n0150Bp0883b04║从怨家得手死。或惊怖念罪忧死
+T02n0150Bp0883b05║七为近恶知识者。名为恶知识。已作恶便反
+T02n0150Bp0883b06║坐。何以故。坐不离恶知识故。不觉善恶。不计
+T02n0150Bp0883b07║恶知识恶。态不思恶知识恶
+T02n0150Bp0883b08║八为入里不时者。名为冥行。亦里有诤时行。
+T02n0150Bp0883b09║亦里有县官长吏追捕不避。不如法行者。入
+T02n0150Bp0883b10║里妄入他家舍中。妄见不可见。妄听不可听。
+T02n0150Bp0883b11║妄犯不可犯。妄说不可说。妄忧不可忧。妄索
+T02n0150Bp0883b12║不可索
+T02n0150Bp0883b13║九为可避不避者。名为当避弊象弊马牛
+T02n0150Bp0883b14║[牛/牪]车蛇虺坑井水火拔刀醉人恶人。亦余若
+T02n0150Bp0883b15║干恶。如是为九因缘。辈人命未尽当坐是尽。
+T02n0150Bp0883b16║慧人当识当避。是因缘以避。乃得两福。一者
+T02n0150Bp0883b17║得长寿。二者以长寿乃得闻道好语言亦能
+T02n0150Bp0883b18║行。诸比丘欢喜受行
+T02n0150Bp0883b19║佛说九横经

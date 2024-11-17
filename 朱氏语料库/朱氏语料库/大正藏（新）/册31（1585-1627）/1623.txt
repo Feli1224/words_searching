@@ -1,0 +1,42 @@
+【经文资讯】大正新修大藏经 第三十一册 No. 1623《观总相论颂》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：1999/12/10
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，维习安大德提供之高丽藏 CD 经文，日本 SAT 组织提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 31, No. 1623 观总相论颂
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 1999/12/10
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by SAT, Japan, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T31n1623_p0887c22║
+T31n1623_p0887c23║
+T31n1623_p0887c24║　　No. 1623
+T31n1623_p0887c25║观总相论颂一卷
+T31n1623_p0887c26║
+T31n1623_p0887c27║　　　　陈那菩萨造
+T31n1623_p0887c28║　　　　三藏法师义净奉　制译
+T31n1623_p0887c29║　诸有乐略者　　彼已显方隅
+T31n1623_p0888a01║　若有爱烦文　　为彼说总相
+T31n1623_p0888a02║　由声及义智　　俗言为本者
+T31n1623_p0888a03║　是观总相言　　此颂声及义
+T31n1623_p0888a04║　谓声并义二　　此中二种智
+T31n1623_p0888a05║　名声兼义智　　彼为根本者
+T31n1623_p0888a06║　谓即于因义　　由诸世间说
+T31n1623_p0888a07║　以声义智本　　是故勒为颂
+T31n1623_p0888a08║　声义及智义　　故略造斯论
+T31n1623_p0888a09║　问名义连属　　是俗说为本
+T31n1623_p0888a10║　何以故今云　　但唯办声义
+T31n1623_p0888a11║　答曰不如此　　纵有连属声
+T31n1623_p0888a12║　唯名与义二　　诸有许共相
+T31n1623_p0888a13║　所诠及能诠　　此中理印持
+T31n1623_p0888a14║　咸摄入于此　　谓不相离性
+T31n1623_p0888a15║　方许相连属　　故今不别说
+T31n1623_p0888a16║　由能诠名等　　唯局连属门
+T31n1623_p0888a17║　了彼所诠义　　故以总相性
+T31n1623_p0888a18║　方得解了者　　后当以广说
+T31n1623_p0888a19║　故唯声义智　　连属道理成
+T31n1623_p0888a20║　有余复意乐　　此中名义二
+T31n1623_p0888a21║　有三种差别　　谓声并义二
+T31n1623_p0888a22║观总相论颂一卷

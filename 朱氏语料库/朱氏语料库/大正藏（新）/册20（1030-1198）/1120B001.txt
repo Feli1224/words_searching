@@ -1,0 +1,98 @@
+【经文资讯】大正新修大藏经 第二十册 No. 1120B《胜初瑜伽仪轨真言》
+【版本记录】CBETA 电子佛典 V1.0 (Big5) 普及版，完成日期：2000/03/01
+【编辑说明】本资料库由中华电子佛典协会（CBETA）依大正新修大藏经所编辑
+【原始资料】萧镇国大德提供，北美某大德提供
+【其它事项】本资料库可自由免费流通，详细内容请参阅【中华电子佛典协会资料库基本介绍】(http://ccbs.ntu.edu.tw/cbeta/result/cbintr.htm)
+=========================================================================
+# Taisho Tripitaka Vol. 20, No. 1120B 胜初瑜伽仪轨真言
+# CBETA Chinese Electronic Tripitaka V1.0 (Big5) Normalized Version, Release Date: 2000/03/01
+# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+# Source material obtained from: Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Anonymous, USA
+# Distributed free of charge. For details please read at http://ccbs.ntu.edu.tw/cbeta/result/cbintr_e.htm
+=========================================================================
+T20n1120Bp0520b01║
+T20n1120Bp0520b02║　　No. 1120B
+T20n1120Bp0520b03║胜初瑜伽仪轨真言
+T20n1120Bp0520b04║
+T20n1120Bp0520b05║【◇】
+T20n1120Bp0520b06║【◇】
+T20n1120Bp0520b07║【◇】
+T20n1120Bp0520b08║【◇】
+T20n1120Bp0520b09║【◇】
+T20n1120Bp0520b10║【◇】
+T20n1120Bp0520b11║【◇】
+T20n1120Bp0520b12║【◇】
+T20n1120Bp0520b13║【◇】
+T20n1120Bp0520b14║【◇】
+T20n1120Bp0520b15║【◇】
+T20n1120Bp0520b16║【◇】
+T20n1120Bp0520b17║【◇】
+T20n1120Bp0520b18║【◇】
+T20n1120Bp0520b19║【◇】
+T20n1120Bp0520b20║【◇】
+T20n1120Bp0520b21║【◇】
+T20n1120Bp0520b22║【◇】
+T20n1120Bp0520b23║【◇】
+T20n1120Bp0520b24║【◇】
+T20n1120Bp0520b25║【◇】
+T20n1120Bp0520b26║【◇】
+T20n1120Bp0520b27║【◇】
+T20n1120Bp0520b28║【◇】
+T20n1120Bp0520b29║【◇】
+T20n1120Bp0520c01║【◇】
+T20n1120Bp0520c02║【◇】
+T20n1120Bp0520c03║【◇】
+T20n1120Bp0520c04║【◇】
+T20n1120Bp0520c05║【◇】
+T20n1120Bp0520c06║【◇】
+T20n1120Bp0520c07║【◇】
+T20n1120Bp0520c08║【◇】
+T20n1120Bp0520c09║【◇】
+T20n1120Bp0520c10║【◇】
+T20n1120Bp0520c11║【◇】
+T20n1120Bp0520c12║【◇】
+T20n1120Bp0520c13║【◇】
+T20n1120Bp0520c14║【◇】
+T20n1120Bp0520c15║【◇】
+T20n1120Bp0520c16║【◇】
+T20n1120Bp0520c17║【◇】
+T20n1120Bp0520c18║【◇】
+T20n1120Bp0520c19║【◇】
+T20n1120Bp0520c20║【◇】
+T20n1120Bp0520c21║【◇】
+T20n1120Bp0520c22║【◇】
+T20n1120Bp0520c23║【◇】
+T20n1120Bp0520c24║【◇】
+T20n1120Bp0520c25║【◇】
+T20n1120Bp0520c26║【◇】
+T20n1120Bp0520c27║【◇】
+T20n1120Bp0520c28║【◇】
+T20n1120Bp0520c29║【◇】
+T20n1120Bp0521a01║【◇】
+T20n1120Bp0521a02║【◇】
+T20n1120Bp0521a03║【◇】
+T20n1120Bp0521a04║【◇】
+T20n1120Bp0521a05║【◇】
+T20n1120Bp0521a06║【◇】
+T20n1120Bp0521a07║【◇】
+T20n1120Bp0521a08║【◇】
+T20n1120Bp0521a09║【◇】
+T20n1120Bp0521a10║【◇】
+T20n1120Bp0521a11║【◇】
+T20n1120Bp0521a12║【◇】
+T20n1120Bp0521a13║【◇】
+T20n1120Bp0521a14║【◇】
+T20n1120Bp0521a15║【◇】
+T20n1120Bp0521a16║【◇】
+T20n1120Bp0521a17║【◇】
+T20n1120Bp0521a18║【◇】
+T20n1120Bp0521a19║【◇】
+T20n1120Bp0521a20║【◇】
+T20n1120Bp0521a21║【◇】
+T20n1120Bp0521a22║【◇】
+T20n1120Bp0521a23║【◇】
+T20n1120Bp0521a24║【◇】
+T20n1120Bp0521a25║【◇】
+T20n1120Bp0521a26║　大治三年七月十一日于金刚峰寺书了
+T20n1120Bp0521a27║　　　　　　　　　　请来梵本也
+T20n1120Bp0521a28║　　　　　　　　　一交了
