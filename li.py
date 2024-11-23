@@ -12,7 +12,7 @@ def highlight_keyword(sentence, keyword):
 if getattr(sys, 'frozen', False):
     corpus_dir_path = os.path.join(sys._MEIPASS, '朱氏语料库')
 else:
-    corpus_dir_path = os.path.join('dist', '朱氏语料库')
+    corpus_dir_path = os.path.join(os.getcwd(), '朱氏语料库')
 
 def read_file_with_encoding(file_path):
     encodings = ['gbk', 'gb2312', 'gb18030']
@@ -21,13 +21,12 @@ def read_file_with_encoding(file_path):
             with open(file_path, 'r', encoding=encoding) as file:
                 return file.read(), encoding
         except UnicodeDecodeError:
-            pass  # 忽略读取失败的错误
+            pass
         except Exception as e:
-            pass  # 忽略其他错误
+            pass
     return None, None
 
 def search_in_files(keyword, dir_path):
-    # 遍历目录下的所有文件
     for root, dirs, files in os.walk(dir_path):
         for filename in files:
             file_path = os.path.join(root, filename)
