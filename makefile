@@ -1,32 +1,25 @@
-# 定义变量
-REPO_URL = git@github.com:Feli1224/words_searching.git
-BRANCH = main
 
-.PHONY: init add commit push status
+PYTHON = python
+PROGRAM = li.py
 
-# 默认目标
-all: init add commit push
+.DEFAULT_GOAL := run
 
-# 初始化本地git仓库
-init:
-	@git init
 
-# 添加远程仓库
-remote:
-	@git remote add origin $(REPO_URL)
+run:
+	@echo "Running the program..."
+	@$(PYTHON) $(PROGRAM)
 
-# 添加文件到git暂存区
-add:
-	@git add .
+clean:
+	@echo "Cleaning up..."
+	@find . -name '__pycache__' -exec rm -rf {} +
+	@find . -type f -name '*.pyc' -exec rm -f {} +
+	@echo "Cleanup complete."
 
-# 提交更改
-commit:
-	@git commit -m "Update code"
+help:
+	@echo "Available targets:"
+	@echo "  run     - Run the main program"
+	@echo "  clean   - Clean up the workspace"
+	@echo "  help    - Display this help message"
 
-# 推送到GitHub
-push:
-	@git push -u origin $(BRANCH)
 
-# 检查git状态
-status:
-	@git status
+.PHONY: run clean help
